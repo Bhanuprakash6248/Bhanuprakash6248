@@ -1,5 +1,5 @@
 [//]:[![MasterHead](https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif)]
-<h1 align="center">Hi 👋, I'm Bhanu Prakash Mandla</h1>
+<h1 align="center">Hi 👋, I'm Bhanu Prakash </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
 
