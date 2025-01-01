@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprakash6248&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprakash6248" /> </p>
 
-- 🔭 I’m currently working on **Chat App**
-
 - 🌱 I’m currently learning **Reactjs MangoDB**
 
 - 💬 Ask me about **Reactjs** **HTML** **CSS** **JS**
